@@ -1,1 +1,3 @@
-# Repository for Le Wagon exercises !
+# Repository 
+
+For Le Wagon exercises !
